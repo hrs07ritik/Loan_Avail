@@ -1,10 +1,4 @@
-Great idea, Ritik 😎🔥
-A good **README.md** makes your project look professional and recruiter-ready.
 
-Here’s a clean, strong README content for your **LoanDekho** project 👇
-You can copy this into your `README.md` file in GitHub.
-
----
 
 # 🏦 LoanDekho – Loan Approval Prediction App
 
@@ -133,3 +127,4 @@ Final Year – Computer Science & Engineering
 Aspiring Machine Learning Engineer
 
 ---
+
